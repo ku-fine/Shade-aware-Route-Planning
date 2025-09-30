@@ -24,6 +24,10 @@ Then run `precompute_shadow_ratios_offline.py` and `precompute_shadows_offline.p
 This program was created by Liuyu Yang, Takuto Miyata, and Shota Kuroki under the supervision of [Patrick Finnerty](https://patfin.github.io/) and [Takateru Urakubo](https://www.lab.kobe-u.ac.jp/csi-uav/urakubo/index.html) as part of a _Co-Creation and Collaboration ($C^3$)_ project in the [Kobe University Graduate School of System Informatics](https://www.csi.kobe-u.ac.jp/).
 
 
+## Award
+
+This project was awarded the **_Excellent Demo Award_, Gold Prize** at the [2025 Global Conference in Consumer Electronics](https://www.ieee-gcce.org/2025/awards.html).
+
 ## License
 
 This program is provided under the [MIT License](License.txt). 
